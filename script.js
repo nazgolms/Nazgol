@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════
-   VOIDEX — ARTIST WEBSITE · JAVASCRIPT
+   VONAZGOL — ARTIST WEBSITE · JAVASCRIPT
    ═══════════════════════════════════════════ */
 
 'use strict';
